@@ -6,6 +6,7 @@ Okay! Now let’s see how to connect a WiFi module to USB to TTL(CP2102)!
 * [Documentation](README.md#documentation)
 * [Connection Diagram](README.md#connections)
 * [Getting Started](README.md#getting-started)
+* [Contributions](README.md#contributions)
 ## Documentation
 It is highly recommended to go through the Documentation first.<br>
 Here are direct links for same.<br>
@@ -16,6 +17,6 @@ Here are direct links for same.<br>
 
 ## Getting Started
 ## Contributions
-For reporting any technical issue or proposing new feature, please create new [issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue).
+For reporting any ```technical issue``` or proposing ```new feature```, please create new [issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue).
 
 
