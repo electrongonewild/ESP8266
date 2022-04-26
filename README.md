@@ -7,6 +7,7 @@ Okay! Now let’s see how to connect a WiFi module to USB to TTL(CP2102)!
 * [Prerequisites](README.md#prerequisites)
 * [Connection Diagram](README.md#connections)
 * [Getting Started](README.md#getting-started)
+* [Basic AT Commands](README.md#basic-at-commands)
 * [Contributions](README.md#contributions)
 ## Documentation
 It is highly recommended to go through the Documentation first.<br>
@@ -28,8 +29,13 @@ Follow the steps for getting started:
 * Open Realterm or any other serial terminal you want to use.
 * Open the port to which your serial device is connected (make sure to check the baudrate as well).
 * That's it!!! Now you can send AT commands using realterm directly to WIFI Module and also receive its response.
-* Firstly check whether you receive ```OK``` in response to ```AT/r/n```, to make sure that your connections and baudrate is fine.
+* Firstly check whether you receive ```OK``` in response to ```AT\r\n```, to make sure that your connections and baudrate is fine.
 * Now you can further proceed to other AT commands according to your application.
+## Basic AT Commands
+1. Basic AT Command: ```AT\r\n```
+2. List Available networks: ```AT+CWLAP\r\n```
+3. Connect to a network: ```AT+CWJAP=\"ssid\",\"password\"\r\n``` (ssid: netwok name, passwod: network password)
+4. Ping Google to check internet availability: ```AT+PING=\"www.google.com\"\r\n```
 ## Contributions
 For reporting any ```technical issue``` or proposing ```new feature```, please create new [issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue).
 
