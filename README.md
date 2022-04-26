@@ -14,7 +14,9 @@ Here are direct links for same.<br>
 * [AT Command Manual](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjsvZubv6T3AhVFR2wGHWzAAN0QFnoECAUQAQ&url=https%3A%2F%2Fwww.espressif.com%2Fsites%2Fdefault%2Ffiles%2F4a-esp8266_at_instruction_set_en_v1.5.4_0.pdf&usg=AOvVaw20lkJ-AqYpSMMLgdBZt-2R)
 
 ## Connections
-
+* Rx(ESP8266) ---> Tx(USB to TTL)
+* Tx(ESP8266) ---> Rx(USB to TTL)
+* Power Supply(5V/3.3V and GND)
 ## Getting Started
 ## Contributions
 For reporting any ```technical issue``` or proposing ```new feature```, please create new [issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue).
