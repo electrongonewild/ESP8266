@@ -27,7 +27,7 @@ Here are direct links for same.<br>
 * Power Supply (5V/3.3V and GND)
 ## Getting Started
 Follow the steps for getting started:
-* Connect the USB to TTL USB port with PC and open device manager to check the port connected to serial bridge (USB to TTL).
+* Connect the USB to TTL(CP2102) to USB port of PC and open device manager to check the port connected to serial bridge (USB to TTL).
 * Open Realterm or any other serial terminal you want to use.
 * Open the port to which your serial device is connected (make sure to check the baudrate as well).
 * That's it!!! Now you can send AT commands using realterm directly to WIFI Module and also receive its response.
