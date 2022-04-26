@@ -1,7 +1,7 @@
 # ESP8266
-The ESP8266 WiFi Module is a self contained SOC with integrated TCP/IP protocol stack that can give any microcontroller access to your WiFi network. <br>
+The ESP8266 Wi-Fi Module is a self contained SOC with integrated TCP/IP protocol stack that can give any microcontroller access to your Wi-Fi network. <br>
 It can act both as a ```Access Point``` (can create hotspot) or as a ```Station``` (can connect to Wi-Fi) depending on the application, hence it can easily fetch and upload data it to the internet.<br>
-Okay! Now let’s see how to connect a WiFi module to USB to TTL(CP2102)!
+Okay! Now let’s see how to connect a Wi-Fi module to USB to TTL(CP2102)!
 ## Table of Contents
 * [Documentation](README.md#documentation)
 * [Prerequisites](README.md#prerequisites)
@@ -30,7 +30,7 @@ Follow the steps for getting started:
 * Connect the USB to TTL(CP2102) to USB port of PC and open device manager to check the port connected to serial bridge (USB to TTL).
 * Open Realterm or any other serial terminal you want to use.
 * Open the port to which your serial device is connected (make sure to set the baudrate and check serial configuration as well).
-* That's it!!! Now you can send AT commands using realterm directly to WIFI Module and also receive its response.
+* That's it!!! Now you can send AT commands using realterm directly to Wi-Fi Module and also receive its response.
 * Firstly check whether you receive ```OK``` in response to ```AT\r\n```, to make sure that your connections and baudrate is fine.
 * Now you can further proceed to other AT commands according to your application.
 ## Basic AT Commands
