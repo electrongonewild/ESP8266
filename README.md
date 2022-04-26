@@ -14,7 +14,7 @@ Here are direct links for same.<br>
 * [Datasheet](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj844jAvqT3AhUKzjgGHVf2DW4QFnoECAQQAQ&url=https%3A%2F%2Fdocs.ai-thinker.com%2F_media%2Fesp8266%2Fdocs%2Fesp-07s_product_specification_en.pdf&usg=AOvVaw3k-zfaEmobvifaX6MvxyKy) 
 * [AT Command Manual](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjsvZubv6T3AhVFR2wGHWzAAN0QFnoECAUQAQ&url=https%3A%2F%2Fwww.espressif.com%2Fsites%2Fdefault%2Ffiles%2F4a-esp8266_at_instruction_set_en_v1.5.4_0.pdf&usg=AOvVaw20lkJ-AqYpSMMLgdBZt-2R)
 ## Prerequisites
-* [Realterm] (https://realterm.sourceforge.io/index.html#downloads_Download) or any other serial terminal
+* [Realterm](https://realterm.sourceforge.io/index.html#downloads_Download) or any other serial terminal
 * USB to TTL (CP2102)
 * ESP8266 EVB
 * Jumpers
