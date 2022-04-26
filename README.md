@@ -21,7 +21,7 @@ Here are direct links for same.<br>
 * Jumpers
 * (Basic knowledge of UART and serial communication)
 ## Connections
-![Alt text](Images/SCHEMATIC_ESP8266_2022-03-26.png?raw=true "Title")
+![Alt text](Images/SCHEMATIC_ESP8266_2022_03_26.png ?raw=true "Title")
 * Rx(ESP8266) ---> Tx(USB to TTL)
 * Tx(ESP8266) ---> Rx(USB to TTL)
 * Power Supply (5V/3.3V and GND)
