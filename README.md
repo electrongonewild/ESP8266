@@ -16,8 +16,15 @@ Here are direct links for same.<br>
 ## Connections
 * Rx(ESP8266) ---> Tx(USB to TTL)
 * Tx(ESP8266) ---> Rx(USB to TTL)
-* Power Supply(5V/3.3V and GND)
+* Power Supply (5V/3.3V and GND)
 ## Getting Started
+Follow the steps for getting started:
+* Connect the USB to TTL USB port with PC and open device manager to check the port connected with serial bridge.
+* Open Realterm or any other serial terminal you want to use.
+* Open the port to which your serial device is connected (make sure to check the baudrate as well).
+* That's it!!! Now you can send AT commands using realterm directly to WIFI Module and also receive its response.
+* Firstly check whether you receive OK in response to AT/r/n, to make sure that your connections and baudrate is fine.
+* Now you can further proceed to other AT commands according to your application.
 ## Contributions
 For reporting any ```technical issue``` or proposing ```new feature```, please create new [issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue).
 
