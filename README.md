@@ -28,7 +28,7 @@ Follow the steps for getting started:
 * Open Realterm or any other serial terminal you want to use.
 * Open the port to which your serial device is connected (make sure to check the baudrate as well).
 * That's it!!! Now you can send AT commands using realterm directly to WIFI Module and also receive its response.
-* Firstly check whether you receive OK in response to AT/r/n, to make sure that your connections and baudrate is fine.
+* Firstly check whether you receive ***OK*** in response to ***AT/r/n***, to make sure that your connections and baudrate is fine.
 * Now you can further proceed to other AT commands according to your application.
 ## Contributions
 For reporting any ```technical issue``` or proposing ```new feature```, please create new [issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue).
