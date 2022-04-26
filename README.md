@@ -19,7 +19,7 @@ Here are direct links for same.<br>
 * USB to TTL (CP2102)
 * ESP8266 EVB
 * Jumpers
-* (Basic knowledge of UART and serial communication)
+* Basic knowledge of UART and serial communication
 ## Connections
 ![Alt text](Images/SCHEMATIC_ESP8266_2022_03_26.png?raw=true "Title")
 * Rx(ESP8266) ---> Tx(USB to TTL)
